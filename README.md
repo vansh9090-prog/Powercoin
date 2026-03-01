@@ -1,0 +1,2 @@
+# Powercoin
+New crypto coin 
