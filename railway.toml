@@ -1,2 +1,5 @@
+[build]
+buildCommand = "echo 'build complete'"
+
 [deploy]
-startCommand = "python index.py"
+startCommand = "python main.py"
